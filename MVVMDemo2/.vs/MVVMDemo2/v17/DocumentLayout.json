@@ -1,0 +1,227 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\legol\\Desktop\\school\\mobile app\\MVVMDemo2\\MVVMDemo2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{108F627A-67E8-413D-9840-2557374F83F6}|MVVMDemo2\\MVVMDemo2.csproj|c:\\users\\legol\\desktop\\school\\mobile app\\mvvmdemo2\\mvvmdemo2\\mvvmdemo2\\views\\contactlist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{108F627A-67E8-413D-9840-2557374F83F6}|MVVMDemo2\\MVVMDemo2.csproj|solutionrelative:mvvmdemo2\\views\\contactlist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{108F627A-67E8-413D-9840-2557374F83F6}|MVVMDemo2\\MVVMDemo2.csproj|c:\\users\\legol\\desktop\\school\\mobile app\\mvvmdemo2\\mvvmdemo2\\mvvmdemo2\\models\\viewmodels\\contactslistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{108F627A-67E8-413D-9840-2557374F83F6}|MVVMDemo2\\MVVMDemo2.csproj|solutionrelative:mvvmdemo2\\models\\viewmodels\\contactslistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{108F627A-67E8-413D-9840-2557374F83F6}|MVVMDemo2\\MVVMDemo2.csproj|c:\\users\\legol\\desktop\\school\\mobile app\\mvvmdemo2\\mvvmdemo2\\mvvmdemo2\\models\\viewmodels\\contactdetailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{108F627A-67E8-413D-9840-2557374F83F6}|MVVMDemo2\\MVVMDemo2.csproj|solutionrelative:mvvmdemo2\\models\\viewmodels\\contactdetailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{108F627A-67E8-413D-9840-2557374F83F6}|MVVMDemo2\\MVVMDemo2.csproj|c:\\users\\legol\\desktop\\school\\mobile app\\mvvmdemo2\\mvvmdemo2\\mvvmdemo2\\views\\contactlist.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{108F627A-67E8-413D-9840-2557374F83F6}|MVVMDemo2\\MVVMDemo2.csproj|solutionrelative:mvvmdemo2\\views\\contactlist.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{108F627A-67E8-413D-9840-2557374F83F6}|MVVMDemo2\\MVVMDemo2.csproj|c:\\users\\legol\\desktop\\school\\mobile app\\mvvmdemo2\\mvvmdemo2\\mvvmdemo2\\views\\contactdetail.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{108F627A-67E8-413D-9840-2557374F83F6}|MVVMDemo2\\MVVMDemo2.csproj|solutionrelative:mvvmdemo2\\views\\contactdetail.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{108F627A-67E8-413D-9840-2557374F83F6}|MVVMDemo2\\MVVMDemo2.csproj|c:\\users\\legol\\desktop\\school\\mobile app\\mvvmdemo2\\mvvmdemo2\\mvvmdemo2\\views\\contactdetail.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{108F627A-67E8-413D-9840-2557374F83F6}|MVVMDemo2\\MVVMDemo2.csproj|solutionrelative:mvvmdemo2\\views\\contactdetail.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{108F627A-67E8-413D-9840-2557374F83F6}|MVVMDemo2\\MVVMDemo2.csproj|c:\\users\\legol\\desktop\\school\\mobile app\\mvvmdemo2\\mvvmdemo2\\mvvmdemo2\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{108F627A-67E8-413D-9840-2557374F83F6}|MVVMDemo2\\MVVMDemo2.csproj|solutionrelative:mvvmdemo2\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{108F627A-67E8-413D-9840-2557374F83F6}|MVVMDemo2\\MVVMDemo2.csproj|c:\\users\\legol\\desktop\\school\\mobile app\\mvvmdemo2\\mvvmdemo2\\mvvmdemo2\\views\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{108F627A-67E8-413D-9840-2557374F83F6}|MVVMDemo2\\MVVMDemo2.csproj|solutionrelative:mvvmdemo2\\views\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{108F627A-67E8-413D-9840-2557374F83F6}|MVVMDemo2\\MVVMDemo2.csproj|c:\\users\\legol\\desktop\\school\\mobile app\\mvvmdemo2\\mvvmdemo2\\mvvmdemo2\\views\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{108F627A-67E8-413D-9840-2557374F83F6}|MVVMDemo2\\MVVMDemo2.csproj|solutionrelative:mvvmdemo2\\views\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{108F627A-67E8-413D-9840-2557374F83F6}|MVVMDemo2\\MVVMDemo2.csproj|c:\\users\\legol\\desktop\\school\\mobile app\\mvvmdemo2\\mvvmdemo2\\mvvmdemo2\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{108F627A-67E8-413D-9840-2557374F83F6}|MVVMDemo2\\MVVMDemo2.csproj|solutionrelative:mvvmdemo2\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{108F627A-67E8-413D-9840-2557374F83F6}|MVVMDemo2\\MVVMDemo2.csproj|c:\\users\\legol\\desktop\\school\\mobile app\\mvvmdemo2\\mvvmdemo2\\mvvmdemo2\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{108F627A-67E8-413D-9840-2557374F83F6}|MVVMDemo2\\MVVMDemo2.csproj|solutionrelative:mvvmdemo2\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{108F627A-67E8-413D-9840-2557374F83F6}|MVVMDemo2\\MVVMDemo2.csproj|c:\\users\\legol\\desktop\\school\\mobile app\\mvvmdemo2\\mvvmdemo2\\mvvmdemo2\\mvvmdemo2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{108F627A-67E8-413D-9840-2557374F83F6}|MVVMDemo2\\MVVMDemo2.csproj|solutionrelative:mvvmdemo2\\mvvmdemo2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContactList.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\legol\\Desktop\\school\\mobile app\\MVVMDemo2\\MVVMDemo2\\MVVMDemo2\\Views\\ContactList.xaml.cs",
+              "RelativeDocumentMoniker": "MVVMDemo2\\Views\\ContactList.xaml.cs",
+              "ToolTip": "C:\\Users\\legol\\Desktop\\school\\mobile app\\MVVMDemo2\\MVVMDemo2\\MVVMDemo2\\Views\\ContactList.xaml.cs",
+              "RelativeToolTip": "MVVMDemo2\\Views\\ContactList.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T07:52:33.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ContactDetail.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\legol\\Desktop\\school\\mobile app\\MVVMDemo2\\MVVMDemo2\\MVVMDemo2\\Views\\ContactDetail.xaml.cs",
+              "RelativeDocumentMoniker": "MVVMDemo2\\Views\\ContactDetail.xaml.cs",
+              "ToolTip": "C:\\Users\\legol\\Desktop\\school\\mobile app\\MVVMDemo2\\MVVMDemo2\\MVVMDemo2\\Views\\ContactDetail.xaml.cs",
+              "RelativeToolTip": "MVVMDemo2\\Views\\ContactDetail.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T07:54:37.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContactList.xaml",
+              "DocumentMoniker": "C:\\Users\\legol\\Desktop\\school\\mobile app\\MVVMDemo2\\MVVMDemo2\\MVVMDemo2\\Views\\ContactList.xaml",
+              "RelativeDocumentMoniker": "MVVMDemo2\\Views\\ContactList.xaml",
+              "ToolTip": "C:\\Users\\legol\\Desktop\\school\\mobile app\\MVVMDemo2\\MVVMDemo2\\MVVMDemo2\\Views\\ContactList.xaml",
+              "RelativeToolTip": "MVVMDemo2\\Views\\ContactList.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-28T06:58:09.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ContactDetail.xaml",
+              "DocumentMoniker": "C:\\Users\\legol\\Desktop\\school\\mobile app\\MVVMDemo2\\MVVMDemo2\\MVVMDemo2\\Views\\ContactDetail.xaml",
+              "RelativeDocumentMoniker": "MVVMDemo2\\Views\\ContactDetail.xaml",
+              "ToolTip": "C:\\Users\\legol\\Desktop\\school\\mobile app\\MVVMDemo2\\MVVMDemo2\\MVVMDemo2\\Views\\ContactDetail.xaml",
+              "RelativeToolTip": "MVVMDemo2\\Views\\ContactDetail.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-28T07:02:21.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContactDetailViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\legol\\Desktop\\school\\mobile app\\MVVMDemo2\\MVVMDemo2\\MVVMDemo2\\Models\\ViewModels\\ContactDetailViewModel.cs",
+              "RelativeDocumentMoniker": "MVVMDemo2\\Models\\ViewModels\\ContactDetailViewModel.cs",
+              "ToolTip": "C:\\Users\\legol\\Desktop\\school\\mobile app\\MVVMDemo2\\MVVMDemo2\\MVVMDemo2\\Models\\ViewModels\\ContactDetailViewModel.cs",
+              "RelativeToolTip": "MVVMDemo2\\Models\\ViewModels\\ContactDetailViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T07:23:16.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContactsListViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\legol\\Desktop\\school\\mobile app\\MVVMDemo2\\MVVMDemo2\\MVVMDemo2\\Models\\ViewModels\\ContactsListViewModel.cs",
+              "RelativeDocumentMoniker": "MVVMDemo2\\Models\\ViewModels\\ContactsListViewModel.cs",
+              "ToolTip": "C:\\Users\\legol\\Desktop\\school\\mobile app\\MVVMDemo2\\MVVMDemo2\\MVVMDemo2\\Models\\ViewModels\\ContactsListViewModel.cs",
+              "RelativeToolTip": "MVVMDemo2\\Models\\ViewModels\\ContactsListViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T07:14:05.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\legol\\Desktop\\school\\mobile app\\MVVMDemo2\\MVVMDemo2\\MVVMDemo2\\App.xaml.cs",
+              "RelativeDocumentMoniker": "MVVMDemo2\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\legol\\Desktop\\school\\mobile app\\MVVMDemo2\\MVVMDemo2\\MVVMDemo2\\App.xaml.cs",
+              "RelativeToolTip": "MVVMDemo2\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T07:43:34.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomePage.xaml",
+              "DocumentMoniker": "C:\\Users\\legol\\Desktop\\school\\mobile app\\MVVMDemo2\\MVVMDemo2\\MVVMDemo2\\Views\\HomePage.xaml",
+              "RelativeDocumentMoniker": "MVVMDemo2\\Views\\HomePage.xaml",
+              "ToolTip": "C:\\Users\\legol\\Desktop\\school\\mobile app\\MVVMDemo2\\MVVMDemo2\\MVVMDemo2\\Views\\HomePage.xaml",
+              "RelativeToolTip": "MVVMDemo2\\Views\\HomePage.xaml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAsAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-28T06:57:14.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\legol\\Desktop\\school\\mobile app\\MVVMDemo2\\MVVMDemo2\\MVVMDemo2\\Views\\HomePage.xaml.cs",
+              "RelativeDocumentMoniker": "MVVMDemo2\\Views\\HomePage.xaml.cs",
+              "ToolTip": "C:\\Users\\legol\\Desktop\\school\\mobile app\\MVVMDemo2\\MVVMDemo2\\MVVMDemo2\\Views\\HomePage.xaml.cs",
+              "RelativeToolTip": "MVVMDemo2\\Views\\HomePage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T07:29:38.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\legol\\Desktop\\school\\mobile app\\MVVMDemo2\\MVVMDemo2\\MVVMDemo2\\App.xaml",
+              "RelativeDocumentMoniker": "MVVMDemo2\\App.xaml",
+              "ToolTip": "C:\\Users\\legol\\Desktop\\school\\mobile app\\MVVMDemo2\\MVVMDemo2\\MVVMDemo2\\App.xaml",
+              "RelativeToolTip": "MVVMDemo2\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-06T19:44:47.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\legol\\Desktop\\school\\mobile app\\MVVMDemo2\\MVVMDemo2\\MVVMDemo2\\Models\\Contact.cs",
+              "RelativeDocumentMoniker": "MVVMDemo2\\Models\\Contact.cs",
+              "ToolTip": "C:\\Users\\legol\\Desktop\\school\\mobile app\\MVVMDemo2\\MVVMDemo2\\MVVMDemo2\\Models\\Contact.cs",
+              "RelativeToolTip": "MVVMDemo2\\Models\\Contact.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T07:01:25.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MVVMDemo2.csproj",
+              "DocumentMoniker": "C:\\Users\\legol\\Desktop\\school\\mobile app\\MVVMDemo2\\MVVMDemo2\\MVVMDemo2\\MVVMDemo2.csproj",
+              "RelativeDocumentMoniker": "MVVMDemo2\\MVVMDemo2.csproj",
+              "ToolTip": "C:\\Users\\legol\\Desktop\\school\\mobile app\\MVVMDemo2\\MVVMDemo2\\MVVMDemo2\\MVVMDemo2.csproj",
+              "RelativeToolTip": "MVVMDemo2\\MVVMDemo2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-28T06:56:14.315Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

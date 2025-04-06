@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MVVMDemo2</name>
+    </assembly>
+    <members>
+        <member name="T:MVVMDemo2.Models.ViewModels.ContactDetailViewModel">
+            <inheritdoc/>
+        </member>
+        <member name="P:MVVMDemo2.Models.ViewModels.ContactDetailViewModel.Contact">
+            <inheritdoc cref="F:MVVMDemo2.Models.ViewModels.ContactDetailViewModel.contact"/>
+        </member>
+        <member name="T:MVVMDemo2.Models.ViewModels.ContactsListViewModel">
+            <inheritdoc/>
+            <inheritdoc/>
+        </member>
+        <member name="P:MVVMDemo2.Models.ViewModels.ContactsListViewModel.Contacts">
+            <inheritdoc cref="F:MVVMDemo2.Models.ViewModels.ContactsListViewModel.contacts"/>
+        </member>
+        <member name="P:MVVMDemo2.Models.ViewModels.ContactsListViewModel.Contact">
+            <inheritdoc cref="F:MVVMDemo2.Models.ViewModels.ContactsListViewModel.contact"/>
+        </member>
+        <member name="F:MVVMDemo2.Models.ViewModels.ContactsListViewModel.addCommand">
+            <summary>The backing field for <see cref="P:MVVMDemo2.Models.ViewModels.ContactsListViewModel.AddCommand"/>.</summary>
+        </member>
+        <member name="P:MVVMDemo2.Models.ViewModels.ContactsListViewModel.AddCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IRelayCommand"/> instance wrapping <see cref="M:MVVMDemo2.Models.ViewModels.ContactsListViewModel.Add"/>.</summary>
+        </member>
+        <member name="T:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs">
+            <summary>
+            A helper type providing cached, reusable <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instances
+            for all properties generated with <see cref="T:CommunityToolkit.Mvvm.ComponentModel.ObservablePropertyAttribute"/>.
+            </summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.Contact">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "Contact" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.Contacts">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "Contacts" generated properties.</summary>
+        </member>
+        <member name="T:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs">
+            <summary>
+            A helper type providing cached, reusable <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instances
+            for all properties generated with <see cref="T:CommunityToolkit.Mvvm.ComponentModel.ObservablePropertyAttribute"/>.
+            </summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.Contact">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "Contact" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.Contacts">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "Contacts" generated properties.</summary>
+        </member>
+    </members>
+</doc>
